@@ -16,7 +16,9 @@ This is an educational course and enrollment management system built with Java. 
 ## Description 
 The project is built on Java SE (Standard Edition), the foundational platform for general-purpose applications. While Java has evolved significantly since its debut in 1995, the "Write Once, Run Anywhere" philosophy remains a key feature, driven by the Java Virtual Machine (JVM).
 
-# Key Java Versions:
+---
+
+# JAVA Evolution:
 
 **Java 8 (2014):** A pivotal release that introduced Lambda expressions and the Streams API, which are utilized in this project's business logic.
 
