@@ -74,17 +74,17 @@ Steps in order to install Java JDK:
 ### 1. Downloading JAVA:
 Search Java JDK go to [Oracle Website](https://www.oracle.com/java/technologies/downloads/).
 
-![JAVA search](ccrm\screenshots\JDK.png)
+![JAVA search](screenshots\JDK.png)
 
 ### 2. Run Installer:
 Run the downloaded installer and complete setup using instructions.
 
-![JDK download](ccrm\screenshots\Download.png)
+![JDK download](screenshots\Download.png)
 
 ### 3. Add Path:
 Add path to environment variables.
 
-![Environment Variable](ccrm\screenshots\Environment.png)
+![Environment Variable](screenshots\Environment.png)
 
 ##  How to Run / Useage
 **Step 1:** just download and paste this folder on your desktop .
